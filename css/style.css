@@ -1,0 +1,57 @@
+body {
+  font: 15px Helvetica, Arial;
+}
+
+h1 {
+  background: #363533;
+  color: white;
+  padding: 15px;
+  margin: 0px;
+}
+
+.content {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+form {
+  background-color: #f2f2f2;
+  padding: 15px;
+}
+
+form input {
+  color: #979596;
+  border-bottom: 2px solid #d4d4d4;
+  border-left: 1px solid #dbdbdb;
+  border-right: 1px solid #dbdbdb;
+  border-top: 1px solid #dbdbdb;
+  width: 200px;
+  height: 20px;
+}
+
+form input[type="submit"] {
+	height: 40px;
+  cursor: pointer;
+}
+
+form label {
+	display: block;
+	width: 140px;
+  padding-bottom: 5px;
+}
+
+.block-list-product table {
+  border: 1px solid;
+}
+
+.block-list-product td {
+  text-align: center;
+}
+
+.block-list-product h3{
+  background: #797862;
+  color: white;
+  padding: 15px;
+  margin: 0px;
+}
+
